@@ -23,5 +23,4 @@ git push -u origin master
 push 오류
 https://shortcuts.tistory.com/12 
 
-Fine-grained personal access tokens
-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 
+
